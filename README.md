@@ -1,3 +1,11 @@
-# Mint tokens using rust solana_sdk and spl_token program
+# Solana Token Minter
 
-This is the code which is used in the article on
+A simple example demonstrating how to **mint SPL tokens** on the Solana blockchain using **Rust**, `solana_sdk`, and the **spl\_token** program.
+
+## Overview
+
+This project provides minimal Rust code to:
+
+* Interact with the Solana blockchain.
+* Use the `spl_token` program for creating and minting tokens.
+* Serve as a reference for developers learning token minting on Solana.
